@@ -1,3 +1,3 @@
 # androidVKIveNetHesaplama
 
-VKI vr net hesabı yapan iki adet sayfadan oluşan uygulama örneği
+VKI ve net hesabı yapan iki adet sayfadan oluşan uygulama örneği
